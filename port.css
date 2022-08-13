@@ -79,12 +79,13 @@
     margin: auto;
 }
 .row{
-    width:100%;
+    width:900px;
     height:1000px;
     display: flex;
     flex-flow: column wrap;
     display: flex;
     row-gap: 40px;
+    column-gap: 10px;
 }
 .column{
     width: 30%;
